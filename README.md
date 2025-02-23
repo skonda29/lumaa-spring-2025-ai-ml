@@ -7,7 +7,7 @@ This project implements a movie recommendation system using TF-IDF and cosine si
 The dataset used is **IMDb Movies**, which contains movie titles, overviews, and other metadata. The dataset is loaded from a CSV file (`IMDb_Movies.csv`).
 
 ### Steps to Load the Dataset:
-1. Ensure the dataset file (`IMDb_Movies.csv`) is in the project directory.
+1. The dataset file (`IMDb_Movies.csv`) is in the project directory.
 2. The dataset is loaded using `pandas`:
    ```python
    import pandas as pd
