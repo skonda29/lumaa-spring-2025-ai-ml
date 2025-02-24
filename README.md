@@ -37,8 +37,8 @@ For the user preference **"I like action movies"**, the output would be:
 
 
 ## Demo Link
-https://drive.google.com/file/d/1PLeMhnfdy_iWIqI-J6QkR7pHAY9moJgG/view?usp=drive_link
-
+[https://drive.google.com/file/d/1PLeMhnfdy_iWIqI-J6QkR7pHAY9moJgG/view?usp=drive_link
+](https://drive.google.com/file/d/1PLeMhnfdy_iWIqI-J6QkR7pHAY9moJgG/view?usp=sharing)
 
 ## Salary Expectations
 $5000-$6000 per month - working full-time 40 hours a week
